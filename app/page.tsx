@@ -128,7 +128,7 @@ export default function Home() {
                       />
                       <Dialog>
                         <DialogTrigger asChild>
-                          <Button variant="outline" className="bg-black text-white">Edit Profile</Button>
+                          <Button variant="outline" className="bg-black text-white">Submit</Button>
                         </DialogTrigger>
                         <DialogContent className="lg:max-w-[600px] bg-white">
                           <div className="">
